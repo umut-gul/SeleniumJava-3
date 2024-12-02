@@ -22,6 +22,10 @@ Java 17 or higher
 
 
 ## Update the excelPath variable in TestCase1.java to point to your Excel file path.
+Create a excel file contains fallowing table;
+   a         b
+1 şort	gömlek
+
 
 
 ## Run the tests:
